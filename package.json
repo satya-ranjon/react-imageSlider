@@ -1,0 +1,34 @@
+{
+  "name": "@satya-ranjon-sharma/react-imageslider",
+  "version": "0.0.7",
+  "description": "This is react slider ",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx babel src --out-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satya-ranjon/react-imageSlider.git"
+  },
+  "keywords": [
+    "react",
+    "slider",
+    "react-slider",
+    "image-slider",
+    "react-image-slider",
+    "image-carousel",
+    "carousel"
+  ],
+  "author": "Satya Ranjan Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satya-ranjon/react-imageSlider/issues"
+  },
+  "homepage": "https://github.com/satya-ranjon/react-imageSlider#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6"
+  }
+}
