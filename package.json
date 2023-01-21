@@ -1,6 +1,6 @@
 {
   "name": "@satya-ranjon-sharma/react-imageslider",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "This is react slider ",
   "main": "dist/index.js",
   "scripts": {
